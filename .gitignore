@@ -1,0 +1,6 @@
+.vs/
+SimpleTrader.Domain/bin/
+SimpleTrader.Domain/obj/
+SimpleTrader.EntityFramework/bin/
+SimpleTrader.EntityFramework/obj/
+
